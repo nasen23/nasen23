@@ -23,4 +23,4 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Profile Readme Development Stats
-        uses: anmol098/waka-readme-stats@V3
+        uses: anmol098/waka-readme-stats@V1.1
