@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Thousand%20lines%20of%20code-blue)
 
@@ -21,5 +21,5 @@ Windows                  4 hrs 30 mins       ███████████�
 ```
 
 
- Last Updated on 02/06/2022 13:03:10 UTC
+ Last Updated on 02/06/2022 18:37:48 UTC
 <!--END_SECTION:waka-->
