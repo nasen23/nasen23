@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Thousand%20lines%20of%20code-blue)
 
@@ -26,5 +26,5 @@ WSL                      8 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/09/2022 02:57:12 UTC
+ Last Updated on 09/09/2022 06:51:33 UTC
 <!--END_SECTION:waka-->
