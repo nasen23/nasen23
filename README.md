@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24%20Thousand%20lines%20of%20code-blue)
 
@@ -20,11 +20,11 @@ Neovim                   10 hrs 57 mins      ███████████�
 Zsh                      3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35%
 
 💻 Operating System: 
-Linux                    10 hrs 22 mins      ██████████████████░░░░░░░   71.53% 
-Mac                      4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.47%
+Linux                    10 hrs 22 mins      ██████████████████░░░░░░░   71.54% 
+Mac                      4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.46%
 
 ```
 
 
- Last Updated on 05/11/2022 18:35:49 UTC
+ Last Updated on 06/11/2022 02:29:34 UTC
 <!--END_SECTION:waka-->
