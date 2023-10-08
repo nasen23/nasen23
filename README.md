@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C626%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C628%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-287.4%20thousand%20lines%20of%20code-blue)
 
@@ -9,15 +9,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 44 mins        ███████████████████░░░░░░   77.82 % 
+JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+conf                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 45 mins        ████████████████████░░░░░   78.72 % 
+Mac                      28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
 ```
 
 
- Last Updated on 07/10/2023 18:24:47 UTC
+ Last Updated on 08/10/2023 01:31:13 UTC
 <!--END_SECTION:waka-->
