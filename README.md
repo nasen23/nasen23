@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C250%20hrs%205%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-308.1%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -23,5 +21,5 @@ Mac                      11 hrs 54 mins      ███████████�
 ```
 
 
- Last Updated on 22/10/2024 12:52:21 UTC
+ Last Updated on 22/10/2024 18:36:15 UTC
 <!--END_SECTION:waka-->
